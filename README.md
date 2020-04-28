@@ -1,0 +1,2 @@
+# predict-pedestrian-movement
+Predict if the pedestrian is going to cross the street. At unregulated pedestrian crossings car has to give way to people who are waiting at the side of the street. Just detecting the location of pedestrians is not sufficient, for example the person might have just finished crossing the street and facing the other way. We need to understand if the pedestrian has the intention to cross the street (e.g. facing the street, not chatting with others). 
